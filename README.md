@@ -7,7 +7,8 @@
   
 
 # How to run it
-  First of all, make sure to have it installed. Then run the following.
+  First of all, make sure to have installed flex and bison. 
+  Go to the directory that contains both files and run the following commands.
   
   For linux:
   ```
