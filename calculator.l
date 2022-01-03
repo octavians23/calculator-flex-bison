@@ -6,7 +6,7 @@
 
  #define YY_DECL int yylex()
 
-#include "exercise5.tab.h"
+#include "calculator.tab.h"
 
 %}
 %option noyywrap
