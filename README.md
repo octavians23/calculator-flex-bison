@@ -1,11 +1,14 @@
 # Calculator made with flex and bison.
   Works with the following mathematical operations: addition, substraction, multiplication, division, power.
+  
   It also recongnizez brackets.
+  
   Recognizes both integers and floats.
   
 
 # How to run it
   First of all, make sure to have it installed. Then run the following.
+  
   For linux:
   ```
   flex calculator.l
